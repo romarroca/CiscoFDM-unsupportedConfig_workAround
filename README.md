@@ -20,6 +20,6 @@ As this is just a temporary solution while we are waiting for the Firepower Mana
   - In the linux shell edit crontab and add the LinaConfigTool one liner
   - ![image](https://github.com/romarroca/CiscoFDM-unsupportedConfig_workAround/assets/87074019/359bcf12-1ee3-48b0-b91d-4ad737adcde7)
 
-#Disclaimer
+# Disclaimer
 This workaround is intended for short-term use, particularly for urgent requirements that necessitate immediate configuration changes. For long-term stability and management, it's strongly recommended to connect your Firepower Sensor to a dedicated Firepower Management Center. We get it—using a single firewall might make you question this approach, but Cisco designed it this way for optimized performance and security.
 
